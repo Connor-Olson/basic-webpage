@@ -20,11 +20,14 @@ a {
     text-align: center;
     font-size: 50px;
     height: 100px;
-    width: 200px;
+    width: 150px;
     padding: 1em;
-    margin: 15px;
+    margin: auto;
     border: 1px black solid;
     background-color: lavender;
     color: black;
+}
 
+.page-top {
+    text-align: center;
 }
