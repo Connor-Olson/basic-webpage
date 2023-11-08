@@ -14,3 +14,17 @@ h1 {
 .img-subtext {
     font-style: italic;
 }
+
+a {
+    display: inline-block;
+    text-align: center;
+    font-size: 50px;
+    height: 100px;
+    width: 200px;
+    padding: 1em;
+    margin: 15px;
+    border: 1px black solid;
+    background-color: lavender;
+    color: black;
+
+}
